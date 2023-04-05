@@ -173,7 +173,7 @@ ________________________________________________________________________________
 
 - **[Web Scraping script:]()** Python script with the web scraping code.
 - **[Jupyter notebook EDA:]()** Notebook with all the data wrangling (cleaning, replacing, transforming, grouping, joining) and data visualization.
-- **[Data Jobs Dashboard:]()** For a better visualization of the information provided by the data source, check out the dashboard created and posted on my Tableau Public profile.
+- **[Data Jobs Dashboard:](https://public.tableau.com/app/profile/vinicius.de.andrade.costa/viz/dataJobs_scrapping/Painel1?publish=yes)** For a better visualization of the information provided by the data source, check out the dashboard created and posted on my Tableau Public profile.
 
 
 # **Contact:**
