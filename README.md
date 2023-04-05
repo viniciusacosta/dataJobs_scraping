@@ -171,8 +171,8 @@ ________________________________________________________________________________
 
 # **Extra info:**
 
-- **[Web Scraping script:]()** Python script with the web scraping code.
-- **[Jupyter notebook EDA:]()** Notebook with all the data wrangling (cleaning, replacing, transforming, grouping, joining) and data visualization.
+- **[Web Scraping script:](https://github.com/viniciusacosta/dataJobs_scraping/blob/main/EDA_dataJobs_description.ipynb)** Python script with the web scraping code.
+- **[Jupyter notebook EDA:](https://github.com/viniciusacosta/dataJobs_scraping/blob/main/EDA_dataJobs_description.ipynb)** Notebook with all the data wrangling (cleaning, replacing, transforming, grouping, joining) and data visualization.
 - **[Data Jobs Dashboard:](https://public.tableau.com/app/profile/vinicius.de.andrade.costa/viz/dataJobs_scrapping/Painel1?publish=yes)** For a better visualization of the information provided by the data source, check out the dashboard created and posted on my Tableau Public profile.
 
 
